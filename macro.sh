@@ -5,7 +5,3 @@ epcgenerator | xclip -selection c
 
 # Cole o conteúdo da área de transferência usando xdotool
 xdotool key ctrl+shift+v
-
-
-
-
