@@ -32,3 +32,12 @@
     - [Fedora](https://docs.fedoraproject.org/en-US/quick-docs/gnome-setting-key-shortcut/)
 
     - [Ubuntu](https://help.ubuntu.com/stable/ubuntu-help/keyboard-shortcuts-set.html.en)
+
+
+  #### PS
+
+  EPC RegEx:
+  
+  ```txt
+    ^[a-fA-F0-9]{24}$
+  ```
